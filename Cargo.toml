@@ -1,0 +1,15 @@
+[package]
+name = "ducktabe"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+arrow = { version = "57.3.0", features = ["chrono-tz"] }
+arrow-array = "58.0.0"
+clap = { version = "4.6.0", features = ["derive"] }
+comfy-table = "7.2.2"
+duckdb = { version = "1.10500.0", features = ["bundled", "chrono", "uuid"] }
+ratatui = "0.30.0"
+ratatui-textarea = "0.8.0"
+thiserror = "2.0.18"
+unicode-width = "0.2.2"

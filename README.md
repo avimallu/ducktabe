@@ -19,14 +19,20 @@ That's it. Nothing more, nothing less.
 
 ---
 
+## What it looks like
+
+![demo](demo.gif)
+
+---
+
 ## Keybindings
 
-| Key        | Action             |
-| ---------- | ------------------ |
-| `Ctrl+R`   | Run query          |
-| `Ctrl+W`   | Toggle output wrap |
-| Arrow keys | Scroll results     |
-| `Esc`      | Quit               |
+| Key                 | Action             |
+| ------------------- | ------------------ |
+| `Ctrl+R`            | Run query          |
+| `Ctrl+W`            | Toggle output wrap |
+| `Ctrl` + Arrow keys | Scroll results     |
+| `Esc`               | Quit               |
 
 ---
 
